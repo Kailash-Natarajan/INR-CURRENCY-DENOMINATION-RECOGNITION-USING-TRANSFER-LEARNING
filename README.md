@@ -7,3 +7,4 @@ INR Denomination Recognition is an image classification project.
 * Performs significantly better than CNN models build and trained from scratch
 * The dataset used for this project is sourced from https://www.kaggle.com/code/kerneler/starter-indian-currency-note-images-f2ab9d26-d/data
 * Dataset contains roughly 450 training images for each class, namely, Rs 10, Rs 20, Rs 50, Rs 100, Rs 200, Rs 500, Rs 2000 and Background. The background class signifies there is no Indian Rupees Currency Note in the provided image. There are also roughly 45 images per class for validation set. There are 91 imaages for the purpose of testing
+* Model checkpoint is also made available
