@@ -1,5 +1,5 @@
 # INR-CURRENCY-DENOMINATION-RECOGNITION-USING-TRANSFER-LEARNING
-INR Denomination Recognition is an image classification project.
+INR Denomination Recognition is an image classification project built using Tensorflow Keras.
 
 * In this project, Indian Rupees Notes are classified according to their currency value, using deep learning techniques. 
 * This project leverages the power of transfer learning. The pretrained base model used is EfficientNetB0. 
